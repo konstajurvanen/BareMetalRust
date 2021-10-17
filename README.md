@@ -1,5 +1,5 @@
-# BareMetalRust (Challenge 3)
-The solution for Challenge #3: Application Lifecycle of the course COMP.530-01-2021-2022-1 Bare Metal Rust in Tampere University.
+# BareMetalRust (Challenge #3)
+The solution for Challenge #3: Application Lifecycle of the course "COMP.530-01-2021-2022-1, Bare Metal Rust" in Tampere University.
 
 ## Explanation of the application:
   
